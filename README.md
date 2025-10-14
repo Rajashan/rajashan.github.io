@@ -1,1 +1,1 @@
-Personal site
+Impersonal site
