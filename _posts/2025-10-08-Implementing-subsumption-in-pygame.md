@@ -1,7 +1,9 @@
+---
 layout: post
 title: "Implementing subsumption in pygame"
 date: 2025-10-08 hh:mm:ss -0000
 categories: Robotics Python
+---
 
 
 Step 1: Physics based simulation env (very simple in pygame)
